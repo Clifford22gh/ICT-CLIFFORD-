@@ -7,7 +7,7 @@ Solutions to assignment 3
 Hint: Use string slicing or a loop.
 """
 
-
+]
 
 """
 2.Create a Python program that takes a user’s full name as input and prints the initials in uppercase.
